@@ -1,0 +1,2018 @@
+[
+            {
+                "ID" : 1,
+                "Name" : "72 Inch 12 Blades Indoor Ceiling Fan",
+                "Price" : "$299.99",
+                "Rate" : "5.0 with 4 ratings",
+                "Img1" : "/Img/Picture1.png",
+                "Img2" : "/Img/Picture2.png",
+                "Img3" : "/Img/Picture3.png",
+                "File" : "/File/1-72 Inch 12 Blades Indoor Ceiling Fan.pdf",
+                "Spec" : {
+                    "Brand" : "BiGizmos",
+                    "Color" : "Brushed Nickel",
+                    "Efd" : {
+                        "Id" : 1,
+                        "Name" : "Ceiling Fan" 
+                            },
+                    "Style" : "Modern",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "72\"D x 72\"W x 21\"H",
+                    "Room" : "Kitchen, Bathroom, Bethroom",
+                    "Feature" : "Remote Controlled, LED Light, Timer",
+                    "Recommend" : "Cooling, Air Circulation",
+                    "Type" : {
+                        "Mounting" : "Celling Mount, Wall Mount",
+                        "Controller" : "Remote control",
+                        "Speeds" : "",
+                        "Blades" : 6,
+                        "Material" : "Aluminum, Plastic"
+                    }
+                },
+                "Description" : "72 Inch 12 Blades Indoor Ceiling Fan with Light and Remote, Reversible DC Silent Motor, 110V ETL Listed for Living Room, Dining Room, Bedroom,Basement, Kitchen, Brushed Nickel "
+               
+            },
+            {
+                "ID" : 2,
+                "Name" : "Anyeark 25.6-inch Ceiling Fan",
+                "Price" : "$99.99",
+                "Rate" : "4.1 with 83 ratings ",
+                "Img1" : "/Img/Picture4.png",
+                "Img2" : "/Img/Picture5.png",
+                "Img3" : "/Img/Picture6.png",
+                "File" : "/File/2-Anyeark.pdf",
+                "Spec" : {
+                    "Brand" : "Anyerk",
+                    "Color" : "White",
+                    "Efd" : {
+                        "Id" : 1,
+                        "Name" : "Ceiling Fan" 
+                            },
+                    "Style" : "Morden",
+                    "Power" : "30W",
+                    "Dimension" : "65cm L x 17cm H",
+                    "Room" : "",
+                    "Feature" : "Remote Control, Dimming, Color Temperature Adjustment,Sleep Mode",
+                    "Recommend" : "",
+                    "Type" : {
+                        "Mounting" : "",
+                        "Controller" : "Remote Control",
+                        "Speeds" : 6,
+                        "Blades" : "Reversible Blades",
+                        "Material" : "Polycarbonate"
+                    }
+                },
+                "Description" : "Anyeark 25.6 inch Ceiling Fan with Light Remote Control, LED Modern 6 Speeds Dimmable for Study Flush Mount Smart Reversible Ceiling Fan Light, Assembly Required, White"
+                
+            },
+            {
+                "ID" : 3,
+                "Name" : "Biukis Ceiling Fans",
+                "Price" : "$59.99",
+                "Rate" : "4.2 with 465 ratings",
+                "Img1" : "/Img/Picture7.png",
+                "Img2" : "/Img/Picture8.png",
+                "Img3" : "/Img/Picture9.png",
+                "File" : "/File/3-Biukis Ceiling Fans.pdf",
+                "Spec" : {
+                    "Brand" : "Biukis",
+                    "Color" : "Black",
+                    "Efd" : {
+                        "Id" : 1,
+                        "Name" : "Ceiling Fan" 
+                            },
+                    "Style" : "Modern",
+                    "Power" : "",
+                    "Dimension" : "8\"D x 27\"W x 12\"H",
+                    "Room" : "Kitchen, Bathroom, Living Room, Garage",
+                    "Feature" : "LED Light",
+                    "Recommend" : "Air Circulation",
+                    "Type" : {
+                        "Mounting" : "Celling Mount",
+                        "Controller" : "Remote control",
+                        "Speeds" : "",
+                        "Blades" : 3,
+                        "Material" : "Polycarbonate"
+                    }
+                },
+                "Description" : "Biukis Ceiling Fans with Lights and Remote, 52 Inch Outdoor Modern Black Fan for Patio Farmhouse Bedroom"
+                
+            },
+            {
+                "ID" : 4,
+                "Name" : "Dannilong Modern Enclosed Ceiling Fan",
+                "Price" : "$99.99",
+                "Rate" : "4.1 with 83 ratings",
+                "Img1" : "/Img/Picture10.png",
+                "Img2" : "/Img/Picture11.png",
+                "Img3" : "/Img/Picture12.png",
+                "File" : "/File/4-Dannilong Modern Enclosed Ceiling Fan.pdf",
+                "Spec" : {
+                    "Brand" : "Dannilong",
+                    "Color" : "Stripped",
+                    "Efd" : {
+                        "Id" : 1,
+                        "Name" : "Ceiling Fan" 
+                            },
+                    "Style" : "Rustic, Modern, Farmhouse, Industrial",
+                    "Power" : "",
+                    "Dimension" : "17.7 inch",
+                    "Room" : "Living Room, Bedroom, Kitchen",
+                    "Feature" : "",
+                    "Recommend" : "",
+                    "Noise" : "",
+                    "Type" : {
+                        "Mounting" : "",
+                        "Controller" : "Remote Control",
+                        "Speeds" : 3,
+                        "Blades" : "",
+                        "Material" : "Metal"
+                    }
+                },
+                "Description" : "Dannilong Modern Enclosed Ceiling Fan Indoor with Remote Control, Black Caged Industrial Ceiling Fan Light Kit for Living Room, Bedroom, Kitchen (Stripped)"
+               
+            },
+            {
+                "ID" : 5,
+                "Name" : "Enclosed Mini Ceiling Fan",
+                "Price" : "$42.78",
+                "Rate" : "3.5 with 12 ratings",
+                "Img1" : "/Img/Picture13.png",
+                "Img2" : "/Img/Picture14.png",
+                "Img3" : "/Img/Picture15.png",
+                "File" : "/File/5-Enclosed Mini Ceiling Fan.pdf",
+                "Spec" : {
+                    "Brand" : "NOVFLAM",
+                    "Color" : "Silver",
+                    "Efd" : {
+                        "Id" : 1,
+                        "Name" : "Ceiling Fan" 
+                            },
+                    "Style" : "Modern, Dimmable, Switch Control, Remote Control",
+                    "Power" : "DC",
+                    "Dimension" : "10 x 10 x 4 inches",
+                    "Room" : "Bedroom",
+                    "Feature" : "Remote Control, Dimmable, LED Light",
+                    "Recommend" : "Indoor",
+                    "Type" : {
+                        "Mounting" : "Celling Mount",
+                        "Controller" : "Button control",
+                        "Speeds" : "",
+                        "Blades" : 3,
+                        "Material" : "Arcylic"
+                    }
+                },
+                "Description" : "Enclosed Mini Ceiling Fan with Light, No Tools - Screw into any light socket 3 Speed Settings, 3 Brightness Settings up to 2100 Lumens Incl. Multi Function Remote Use in Garage, Workshop, Bedroom"
+                
+            },
+            {
+                "ID" : 6,
+                "Name" : "GooComfy Dimmable Ceiling Fan",
+                "Price" : "$69.99",
+                "Rate" : "4.2 with 13 ratings",
+                "Img1" : "/Img/Picture16.png",
+                "Img2" : "/Img/Picture17.png",
+                "Img3" : "/Img/Picture18.png",
+                "File" : "/File/6-GooComfy Dimmable Ceiling Fan.pdf",
+                "Spec" : {
+                    "Brand" : "GooComfy",
+                    "Color" : "White",
+                    "Efd" : {
+                        "Id" : 1,
+                        "Name" : "Ceiling Fan" 
+                            },
+                    "Style" : "Morden",
+                    "Power" : "",
+                    "Dimension" : "27 inch",
+                    "Room" : "living room, dorm room, bedroom, kitchen and more",
+                    "Feature" : "",
+                    "Recommend" : "",
+                    "Type" : {
+                        "Mounting" : "",
+                        "Controller" : "APP & REMOTE CONTROLL",
+                        "Speeds" : "",
+                        "Blades" : 7,
+                        "Material" : "Metal, Arcylic"
+                    }
+                },
+                "Description" : "GooComfy Dimmable Ceiling Fan with Light and Remote Control, 27 inch Small Flush Mounted Ceiling Fan with Led Lights, APP and Remote Controlled,Modern, White,"
+                
+            },
+            {
+                "ID" : 7,
+                "Name" : "Honeywell Ceiling Fans",
+                "Price" : "$125.78",
+                "Rate" : "4.6 with 6,639 ratings",
+                "Img1" : "/Img/Picture19.png",
+                "Img2" : "/Img/Picture20.png",
+                "Img3" : "/Img/Picture21.png",
+                "File" : "/File/7-Honeywell Ceiling Fans.pdf",
+                "Spec" : {
+                    "Brand" : "Honeywell",
+                    "Color" : "Pewter",
+                    "Efd" : {
+                        "Id" : 1,
+                        "Name" : "Ceiling Fan" 
+                            },
+                    "Style" : "Pewter - Cage Light",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "52\"D x 52\"W x 14.11\"H",
+                    "Room" : "Bedroom",
+                    "Feature" : "Remote Control",
+                    "Recommend" : "Home",
+                    "Type" : {
+                        "Mounting" : "Celling Mount",
+                        "Controller" : "Remote Control",
+                        "Speeds" : "",
+                        "Blades" : 3,
+                        "Material" : "Engineered Wood, Metal"
+                    }
+                },
+                "Description" : "Honeywell Ceiling Fans Carnegie, 52 Inch Industrial Style Indoor LED Ceiling Fan with Light, Remote Control, Dual Mounting Options, 5 Dual Finish Blades, Reversible Airflow - 51460-01 (Pewter)"
+                
+            },
+            {
+                "ID" : 8,
+                "Name" : "Prominence Home Benton",
+                "Price" : "$74.85",
+                "Rate" : "4.6 with 1,087 ratings",
+                "Img1" : "/Img/Picture22.png",
+                "Img2" : "/Img/Picture23.png",
+                "Img3" : "/Img/Picture24.png",
+                "File" : "/File/8-Riveria Breeze Ceiling Fan.pdf",
+                "Spec" : {
+                    "Brand" : "Prominence Home",
+                    "Color" : "Matte Black",
+                    "Efd" : {
+                        "Id" : 1,
+                        "Name" : "Ceiling Fan" 
+                            },
+                    "Style" : "Traditional",
+                    "Power" : "Ac",
+                    "Dimension" : "52\"D x 52\"W x 12.3\"H",
+                    "Room" : "Living Room, Bedroom, Dining Room",
+                    "Feature" : "Remote Control, Led Light",
+                    "Recommend" : "Air Circulation",
+                    "Type" : {
+                        "Mounting" : "Air Circulation",
+                        "Controller" : "Pull chain control, Remote control",
+                        "Speeds" : 3,
+                        "Blades" : 5,
+                        "Material" : "Alloy Steel"
+                    }
+                },
+                "Description" : "Prominence Home Benton, 52 Inch Traditional Flush Mount Indoor LED Ceiling Fan with Light, Pull Chains, Dual Finish Blades, Reversible Motor - 50853- 01 (Matte Black)"
+                
+            },
+            {
+                "ID" : 9,
+                "Name" : "Riveria Breeze Ceiling Fan",
+                "Price" : "$79.99",
+                "Rate" : "3.8 with 8 ratings",
+                "Img1" : "/Img/Picture25.png",
+                "Img2" : "/Img/Picture26.png",
+                "Img3" : "/Img/Picture27.png",
+                "File" : "/File/9-TALOYA Ceiling Fan.pdf",
+                "Spec" : {
+                    "Brand" : "Riveria breeze",
+                    "Color" : "sleek black woodand elegant silver",
+                    "Efd" : {
+                        "Id" : 1,
+                        "Name" : "Ceiling Fan" 
+                            },
+                    "Style" : "Retro",
+                    "Power" : "",
+                    "Dimension" : "22.83\"D x 12.72\"W x 13.5\"H",
+                    "Room" : "Kitchen, Bathroom, Living Room",
+                    "Feature" : "LED Light",
+                    "Recommend" : "",
+                    "Type" : {
+                        "Mounting" : "Celling Mount",
+                        "Controller" : "Pull chain control",
+                        "Speeds" : "",
+                        "Blades" : 5,
+                        "Material" : "Wood"
+                    }
+                },
+                "Description" : "Riveria Breeze Ceiling Fan, Outdoor Ceiling Fan with Light, 52 Inch Ceiling Fans with Lights, 3-Speeds Outdoor Ceiling Fans for Patios, Kitchen, Bedroom, Living Room, Farmhouse, Reversible Motor, Pull Chain Control"
+                
+            },
+            {
+                "ID" : 10,
+                "Name" : "TALOYA Ceiling Fan",
+                "Price" : "$89.99",
+                "Rate" : "4.9 with 8 ratings",
+                "Img1" : "/Img/Picture28.png",
+                "Img2" : "/Img/Picture29.png",
+                "Img3" : "/Img/Picture30.png",
+                "File" : "/File/10-Prominence Home.pdf",
+                "Spec" : {
+                    "Brand" : "TALOYA",
+                    "Color" : "White",
+                    "Efd" : {
+                        "Id" : 1,
+                        "Name" : "Ceiling Fan" 
+                            },
+                    "Style" : "Modern",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "42\"D x 32\"W x 13\"H",
+                    "Room" : "Bedroom",
+                    "Feature" : "LED Light",
+                    "Recommend" : "Cooling",
+                    "Type" : {
+                        "Mounting" : "Celling Mount",
+                        "Controller" : "Remote control",
+                        "Speeds" : "",
+                        "Blades" : 6,
+                        "Material" : "Metal"
+                    }
+                },
+                "Description" : "TALOYA Ceiling Fan with Lights Remote Control, 42 inch, Reversible Quiet DC Motor, 3 Dual-faced Blades Modern Ceiling Fans for Bedroom Patio Indoor"
+                
+            },
+            {
+                "ID" : 11,
+                "Name" : "BIOWIND Quiet Register Booster Fan",
+                "Price" : "$69.99",
+                "Rate" : "4.7 with 785 ratings",
+                "Img1" : "/Img/Picture31.png",
+                "Img2" : "/Img/Picture32.png",
+                "Img3" : "/Img/Picture33.png",
+                "File" : "/File/11-BIOWIND.pdf",
+                "Spec" : {
+                    "Brand" : "BIOWIND",
+                    "Color" : "White",
+                    "Efd" : {
+                        "Id" : 2,
+                        "Name" : "Exhaust Fan" 
+                            },
+                    "Style" : "Modern",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "1.96\"D x 11.54\"W x 5.51\"H",
+                    "Room" : "Kids Room, Living Room, Bedroom, Home Office, Dining Room",
+                    "Feature" : "Remote Controller",
+                    "Recommend" : "Indoor",
+                    "Type" : {
+                        "Mounting" : "Walling Mount, Floor Mount",
+                        "Controller" : "Button control",
+                        "Speeds" : "",
+                        "Blades" : 7,
+                        "Material" : "Aluminum"
+                    }
+                },
+                "Description" : "BIOWIND Quiet Register Booster Fan, Smart Register Vent Fits 4\" x 10\" Register Holes with  Remote Control and Thermostat Control, Heating Cooling AC Vent Fan - White"
+                
+            },
+            {
+                "ID" : 12,
+                "Name" : "CAPTIVE-AIRE Direct Drive Centrifugal Downblast Roof Mounted Exhaust Fan",
+                "Price" : "$915.04",
+                "Rate" : "4.5 with 918 ratings",
+                "Img1" : "/Img/Picture34.png",
+                "Img2" : "/Img/Picture35.png",
+                "Img3" : "/Img/Picture36.png",
+                "File" : "/File/12-CAPTIVE-AIRE.pdf",
+                "Spec" : {
+                    "Brand" : "CAPTIVE-AIRE",
+                    "Color" : "Aluminum",
+                    "Efd" : {
+                        "Id" : 2,
+                        "Name" : "Exhaust Fan" 
+                            },
+                    "Style" : "Custom",
+                    "Power" : "AC",
+                    "Dimension" : "21\" x 21\"",
+                    "Room" : "Office",
+                    "Feature" : "",
+                    "Recommend" : "Exhausting",
+                    "Noise" : "",
+                    "Type" : {
+                        "Mounting" : "",
+                        "Controller" : "Button control",
+                        "Speeds" : "",
+                        "Blades" : "",
+                        "Material" : "Aluminum"
+                    }
+                },
+                "Description" : "CAPTIVE-AIRE Direct Drive Centrifugal Downblast Roof Mounted Exhaust Fan with Speed Control- 21 inch Fan Base, 0.33 HP 115 Volt Single Phase Motor (DR-33HFA)"
+                
+            },
+            {
+                "ID" : 13,
+                "Name" : "JPOWER 12 Inch Exhaust Fan",
+                "Price" : "$59.99",
+                "Rate" : "4.5 with 883 ratings",
+                "Img1" : "/Img/Picture37.png",
+                "Img2" : "/Img/Picture38.png",
+                "Img3" : "/Img/Picture39.png",
+                "File" : "/File/13-Exhust.pdf",
+                "Spec" : {
+                    "Brand" : "JPOWER",
+                    "Color" : "Silver",
+                    "Efd" : {
+                        "Id" : 2,
+                        "Name" : "Exhaust Fan" 
+                            },
+                    "Style" : "",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "10.02\"D x 15\"W x 15\"H",
+                    "Room" : "Kitchen, Bathroom",
+                    "Feature" : "Bladeless",
+                    "Recommend" : "Shop, Factories",
+                    "Type" : {
+                        "Mounting" : "Wall Mount",
+                        "Controller" : "Button control",
+                        "Speeds" : "",
+                        "Blades" : 3,
+                        "Material" : "Aluminum"
+                    }
+                },
+                "Description" : "JPOWER 12 Inch Exhaust Fan Wall Mounted, Automatic Aluminum Shutter ,Vent Fan High Speed 1800CFM For Garages And Shops, Greenhouse ,Attic Ventilation, Upgraded Version"
+                
+            },
+            {
+                "ID" : 14,
+                "Name" : "HG Power 10 Inch Shutter Exhaust Fan",
+                "Price" : "$59.99",
+                "Rate" : "4.4 with 174 ratings",
+                "Img1" : "/Img/Picture40.png",
+                "Img2" : "/Img/Picture41.png",
+                "Img3" : "/Img/Picture42.png",
+                "File" : "/File/14-HG Power.pdf",
+                "Spec" : {
+                    "Brand" : "HG Power",
+                    "Color" : "Black",
+                    "Efd" : {
+                        "Id" : 2,
+                        "Name" : "Exhaust Fan" 
+                            },
+                    "Style" : "",
+                    "Power" : "AC",
+                    "Dimension" : "7\"D x 12.6\"W x 12.6\"H",
+                    "Room" : "Kitchen, Bathroom, Bedroom, Living Room, Home Office, Garage, Attic, Chicken Coop,Shed, Workshop, Dining Room",
+                    "Feature" : "Water Resistant",
+                    "Recommend" : "Cooling",
+                    "Type" : {
+                        "Mounting" : "Wall Mount",
+                        "Controller" : "Button control",
+                        "Speeds" : 3,
+                        "Blades" : "",
+                        "Material" : "Plastic"
+                    }
+                },
+                "Description" : "HG Power 10 Inch Shutter Exhaust Fan, 647CFM Low Noise Shed Exhaust Fan for Ventilation Use, 12\" 14\" Silent Wall Mounted Extractor Fan with Mesh Screen for Basement, Gable, Chicken Coop, Black"
+                
+            },
+            {
+                "ID" : 15,
+                "Name" : "Iliving - 36\" Wall Mounted Shutter Exhaust Fan",
+                "Price" : "$413.00",
+                "Rate" : "4.5 with 239 ratings",
+                "Img1" : "/Img/Picture43.png",
+                "Img2" : "/Img/Picture44.png",
+                "Img3" : "/Img/Picture45.png",
+                "File" : "/File/15-Iliving.pdf",
+                "Spec" : {
+                    "Brand" : "Iliving",
+                    "Color" : "Silver",
+                    "Efd" : {
+                        "Id" : 2,
+                        "Name" : "Exhaust Fan" 
+                            },
+                    "Style" : "",
+                    "Power" : "Electric",
+                    "Dimension" : "5.75\"D x 39\"W x 39\"H",
+                    "Room" : "Kitchen, Bath room",
+                    "Feature" : "Single Speed",
+                    "Recommend" : "Home",
+                    "Type" : {
+                        "Mounting" : "Wall Mount",
+                        "Controller" : "Button control",
+                        "Speeds" : 1,
+                        "Blades" : "",
+                        "Material" : "Aluminum"
+                    }
+                },
+                "Description" : "Iliving - 36\" Wall Mounted Shutter Exhaust Fan - Automatic Shutter - Single Speed - Vent Fan For Home Attic, Shed, or Garage Ventilation, 6128 CFM, 9000 SQF Coverage Area, Silver (ILG8SF36S)"
+                
+            },
+            {
+                "ID" : 16,
+                "Name" : "MOUNTO 1HP 5000CFM 16\" Axial Blower Exhaust Fan",
+                "Price" : "$359.99",
+                "Rate" : "4.3 with 37 ratings",
+                "Img1" : "/Img/Picture46.png",
+                "Img2" : "/Img/Picture47.png",
+                "Img3" : "/Img/Picture48.png",
+                "File" : "/File/16-MOUNTO.pdf",
+                "Spec" : {
+                    "Brand" : "MOUNTO",
+                    "Color" : "Blue",
+                    "Efd" : {
+                        "Id" : 2,
+                        "Name" : "Exhaust Fan" 
+                            },
+                    "Style" : "Classic",
+                    "Power" : "AC",
+                    "Dimension" : "16 inches",
+                    "Room" : "",
+                    "Feature" : "Manual",
+                    "Recommend" : "Construction, Painting Exhaust",
+                    "Type" : {
+                        "Mounting" : "Wall Mount",
+                        "Controller" : "Button control",
+                        "Speeds" : "",
+                        "Blades" : "",
+                        "Material" : "Plastic"
+                    }
+                },
+                "Description" : "MOUNTO 1HP 5000CFM 16\" Axial Blower Exhaust Fan Confined Space Blower (Blue "
+                
+            },
+            {
+                "ID" : 17,
+                "Name" : "Neverest Portable Blower",
+                "Price" : "$329.45",
+                "Rate" : "4.0 with 50 ratings",
+                "Img1" : "/Img/Picture49.png",
+                "Img2" : "/Img/Picture50.png",
+                "Img3" : "/Img/Picture51.png",
+                "File" : "/File/17-Neverest Portable Blower.pdf",
+                "Spec" : {
+                    "Brand" : "Neverest",
+                    "Color" : "Yellow",
+                    "Efd" : {
+                        "Id" : 2,
+                        "Name" : "Exhaust Fan" 
+                            },
+                    "Style" : "",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "",
+                    "Room" : "",
+                    "Feature" : "Durable, Portable",
+                    "Recommend" : "Travel",
+                    "Type" : {
+                        "Mounting" : "Celling Mount",
+                        "Controller" : "Button control",
+                        "Speeds" : 3,
+                        "Blades" : "",
+                        "Material" : "Other"
+                    }
+                },
+                "Description" : "Neverest Portable Blower or Portable Exhaust Fan 12 inch, Strong Shop Ventilation Fan 4100 CFM, 3050 RPM, 380 W, Construction Fan with Hose, Industrial Air Blower, High Volume Exhaust Fan, 7 FT Plug"
+                
+            },
+            {
+                "ID" : 18,
+                "Name" : "Panasonic FV-0511VF1 Whisper Fit DC Fan",
+                "Price" : "$129.99",
+                "Rate" : "4.7 with 581 ratings",
+                "Img1" : "/Img/Picture52.png",
+                "Img2" : "/Img/Picture53.png",
+                "Img3" : "/Img/Picture54.png",
+                "File" : "/File/18-Panasonic FV-0511VF1 WhisperFit.pdf",
+                "Spec" : {
+                    "Brand" : "Panasonic",
+                    "Color" : "White",
+                    "Efd" : {
+                        "Id" : 2,
+                        "Name" : "Exhaust Fan" 
+                            },
+                    "Style" : "",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "17.52\"D x 10.2\"W x 14.09\"H",
+                    "Room" : "Bathroom",
+                    "Feature" : "Manual",
+                    "Recommend" : "Ventilating, Exhausting",
+                    "Noise" : "",
+                    "Type" : {
+                        "Mounting" : "Celling Mount",
+                        "Controller" : "Button control",
+                        "Speeds" : 3,
+                        "Blades" : "",
+                        "Material" : "Other"
+                    }
+                },
+                "Description" : "Panasonic FV-0511VF1 Whisper Fit DC Fan 50-80-110 CFM Retrofit Bathroom Exhaust Fan - Quiet Energy Star-Certified Energy-Saving Bathroom Ceiling Fan"
+                
+            },
+            {
+                "ID" : 19,
+                "Name" : "Solar Powered Exhaust Fan",
+                "Price" : "$59.99",
+                "Rate" : "4.1 with 71 ratings",
+                "Img1" : "/Img/Picture55.png",
+                "Img2" : "/Img/Picture56.png",
+                "Img3" : "/Img/Picture57.png",
+                "File" : "/File/19-Solar Powered.pdf",
+                "Spec" : {
+                    "Brand" : "Tagefa",
+                    "Color" : "White",
+                    "Efd" : {
+                        "Id" : 2,
+                        "Name" : "Exhaust Fan" 
+                            },
+                    "Style" : "",
+                    "Power" : "",
+                    "Dimension" : "10\"L x 10\"W x 4.2\"H",
+                    "Room" : "Garage, Pet House, Chicken Coop, Green House",
+                    "Feature" : "Bracket, Screws, DC brushless fan, Solar panel",
+                    "Recommend" : "",
+                    "Type" : {
+                        "Mounting" : "Ceiling mounting",
+                        "Controller" : "air circulation and temperature control",
+                        "Speeds" : "",
+                        "Blades" : 3,
+                        "Material" : "Glass, Plastic"
+                    }
+                },
+                "Description" : "Solar Powered Exhaust Fan, 22W Solar Panel with 8\" Solar Brushless Fan for Outside, Shed Ventilation, Greenhouse, Chicken Coop, Pet Houses, Garage"
+                
+            },
+            {
+                "ID" : 20,
+                "Name" : "VIVOSUN D4 4 Inch 195 CFM Inline Duct Ventilation Fan",
+                "Price" : "$29.39",
+                "Rate" : "4.3 with 11,939 ratings",
+                "Img1" : "/Img/Picture58.png",
+                "Img2" : "/Img/Picture59.png",
+                "Img3" : "/Img/Picture60.png",
+                "File" : "/File/20-VIVOSUN.pdf",
+                "Spec" : {
+                    "Brand" : "VIVOSUN",
+                    "Color" : "Black",
+                    "Efd" : {
+                        "Id" : 2,
+                        "Name" : "Exhaust Fan" 
+                            },
+                    "Style" : "",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "7\"D x 7.3\"W x 6.7\"H",
+                    "Room" : "Kitchen",
+                    "Feature" : "Lightweight",
+                    "Recommend" : "Ventilating",
+                    "Type" : {
+                        "Mounting" : "Wall Mount",
+                        "Controller" : "Button control",
+                        "Speeds" : 3,
+                        "Blades" : "",
+                        "Material" : "Aluminum"
+                    }
+                },
+                "Description" : "VIVOSUN D4 4 Inch 195 CFM Inline Duct Ventilation Fan HVAC Vent Blower for Hydroponics Grow Tent"
+                
+            },
+            {
+                "ID" : 21,
+                "Name" : "Amazon Basics 3 Speed Small Room Air Circulator Fan",
+                "Price" : "$29.9",
+                "Rate" : "4.6 with 987 ratings",
+                "Img1" : "/Img/Picture61.png",
+                "Img2" : "/Img/Picture62.png",
+                "Img3" : "/Img/Picture63.png",
+                "File" : "/File/21-Amazon Basics 3.pdf",
+                "Brand":{
+                    "id":1,
+                    "name": "Amazon"
+                },
+                "Top": 1,
+                "Spec" : {
+                    "Brand" : "Amazon Basic",
+                    "Color" : "Black",
+                    "Efd" : {
+                        "Id" : 3,
+                        "Name" : "Table Fan" 
+                            },
+                    "Style" : "Air Circulation Fan",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "7.6\"D x 14.8\"W x 14.1\"H",
+                    "Room" : "Any Room, Home Office",
+                    "Feature" : "",
+                    "Recommend" : "Cooling, Air Circulation",
+                    "Type" : {
+                        "Mounting" : "Freestanding",
+                        "Controller" : "Rotary Switch",
+                        "Speeds" : 3,
+                        "Blades" : 3,
+                        "Material" : "Plastic"
+                    }
+                },
+                "Description" : "Amazon Basics 3 Speed Small Room Air Circulator Fan, 11- Inch, Blade, Black, 7.6\"D x 14.8\"W x 14.1\"H"
+                
+            },
+            {
+                "ID" : 22,
+                "Name" : "CONBOLA Desk Fan",
+                "Price" : "$35.97",
+                "Rate" : "4.0 with 6.895 ratings",
+                "Img1" : "/Img/Picture64.png",
+                "Img2" : "/Img/Picture65.png",
+                "Img3" : "/Img/Picture66.png",
+                "File" : "/File/22-CONBOLA.pdf",
+                "Spec" : {
+                    "Brand" : "CONBOLA",
+                    "Color" : "White",
+                    "Efd" : {
+                        "Id" : 3,
+                        "Name" : "Table Fan" 
+                            },
+                    "Style" : "Modern",
+                    "Power" : "USB Battery Powered",
+                    "Dimension" : "4.56\"D x 5.74\"W x 11.8\"H",
+                    "Room" : "Office, Bedroom",
+                    "Feature" : "Bladeless, LED Light,Lightweight,Portable,Quiet,Multi-Speed,3 Speed Settings",
+                    "Recommend" : "Cooling, Air Circulation",
+                    "Type" : {
+                        "Mounting" : "Bladeless, LED Light, Lightweight,Portable,Quiet,MultiSpeed,3 Speed Settings",
+                        "Controller" : "Touchpad Control",
+                        "Speeds" : 4,
+                        "Blades" : "",
+                        "Material" : "Acrylonitrile Butadiene Styrene"
+                    }
+                },
+                "Description" : "CONBOLA Desk Fan, 11.8 Inch Bladeless Fan Small Quiet Table Fan, with Touch Control 5-Colors Decorative LED Light for Office Bedroom (White)"
+                
+            },
+            {
+                "ID" : 23,
+                "Name" : "Dreo Table Fans",
+                "Price" : "$53.9",
+                "Rate" : "4.6 with 984 ratings",
+                "Img1" : "/Img/Picture67.png",
+                "Img2" : "/Img/Picture68.png",
+                "Img3" : "/Img/Picture69.png",
+                "File" : "/File/23-Dreo Table Fans.pdf",
+                "Brand":{
+                    "id":2,
+                    "name": "Dreo"
+                },
+                "Top": 2,
+                "Spec" : {
+                    "Brand" : "Dreo",
+                    "Color" : "Black",
+                    "Efd" : {
+                        "Id" : 3,
+                        "Name" : "Table Fan" 
+                            },
+                    "Style" : "Modern",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "10.24\"D x 11.46\"W x 13.19\"H",
+                    "Room" : "Office, Kitchen, Living Room, Bedroom, Home, Dining Room, Kids, Nursery",
+                    "Feature" : "Remote Controlled, Timer, Adjustable Tilt 120°, Oscillating",
+                    "Recommend" : "Cooling, Ventilating, Air Circulation, Drying",
+                    "Type" : {
+                        "Mounting" : "Free Standing",
+                        "Controller" : "Remote Control, Touchpad Control",
+                        "Speeds" : 4,
+                        "Blades" : 3,
+                        "Material" : "Plastic"
+                    }
+                },
+                "Description" : "Dreo Table Fans for Home Bedroom, 9 Inch Quiet Oscillating Floor Fan with Remote, Air Circulator Fan for Whole Room, 70ft Powerful Airflow, 120° Adjustable Tilt, 4 Speeds, 8H Timer"
+                
+            },
+            {
+                "ID" : 24,
+                "Name" : "Hunter Adjustable 3 Speed Retro Pedestal",
+                "Price" : "$75.99",
+                "Rate" : "4.1 with 410 ratings",
+                "Img1" : "/Img/Picture70.png",
+                "Img2" : "/Img/Picture71.png",
+                "Img3" : "/Img/Picture72.png",
+                "File" : "/File/24-Hunter Adjustable 3.pdf",
+                "Spec" : {
+                    "Brand" : "Hunter",
+                    "Color" : "Onyx Cropper",
+                    "Efd" : {
+                        "Id" : 3,
+                        "Name" : "Table Fan" 
+                            },
+                    "Style" : "",
+                    "Power" : "AC",
+                    "Dimension" : "15.7\"D x 17.5\"W x 51\"H",
+                    "Room" : "Bedroom, Living Room, Family Room, Dining Room, Kitchen, Office, Garage, School, Dorm, Deck, Pool",
+                    "Feature" : "Adjustable Height, Oscillating",
+                    "Recommend" : "Cooling",
+                    "Type" : {
+                        "Mounting" : "Floor Mount",
+                        "Controller" : "Button Control",
+                        "Speeds" : 3,
+                        "Blades" : "",
+                        "Material" : "Metal"
+                    }
+                },
+                "Description" : "Hunter Adjustable 3 Speed Retro Pedestal Stand Floor Fan, 80 Degree Oscillation, 16\", Onyx Copper"
+                
+            },
+            {
+                "ID" : 25,
+                "Name" : "Hunter Metal Retro Table Fan",
+                "Price" : "$86.99",
+                "Rate" : "4.5 with 1.020 ratings",
+                "Img1" : "/Img/Picture73.png",
+                "Img2" : "/Img/Picture74.png",
+                "Img3" : "/Img/Picture75.png",
+                "File" : "/File/25-Hunter Metal Retro.pdf",
+                "Spec" : {
+                    "Brand" : "Hunter",
+                    "Color" : "Onyx Cropper",
+                    "Efd" : {
+                        "Id" : 3,
+                        "Name" : "Table Fan" 
+                            },
+                    "Style" : "",
+                    "Power" : "Electric",
+                    "Dimension" : "9.7\"D x 13.3\"W x 16.8\"H",
+                    "Room" : "Bedroom",
+                    "Feature" : "Portable",
+                    "Recommend" : "Cooling",
+                    "Type" : {
+                        "Mounting" : "Free Standing, Table Fan",
+                        "Controller" : "Button Control",
+                        "Speeds" : 3,
+                        "Blades" : "",
+                        "Material" : "Metal"
+                    }
+                },
+                "Description" : "Hunter Metal Retro Table FanPowerful 3 Speeds and Smooth Oscillation, 12\", Onyx Copper"
+               
+            },
+            {
+                "ID" : 26,
+                "Name" : "Lasko 3-Speed 12\" Table Fan",
+                "Price" : "$32.85",
+                "Rate" : "4.3 with 2.212 ratings",
+                "Img1" : "/Img/Picture76.png",
+                "Img2" : "/Img/Picture77.png",
+                "Img3" : "/Img/Picture78.png",
+                "File" : "/File/26-Lasko.pdf",
+                "Brand":{
+                    "id":3,
+                    "name": "Lasko"
+                },
+                "Top": 1,
+                "Spec" : {
+                    "Brand" : "Lasko",
+                    "Color" : "White",
+                    "Efd" : {
+                        "Id" : 3,
+                        "Name" : "Table Fan" 
+                            },
+                    "Style" : "Classic",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "12\"D x 14\"W x 18\"H",
+                    "Room" : "Home Office, Bedroom, Kitchen, Living Room",
+                    "Feature" : "Manual",
+                    "Recommend" : "Home, Office",
+                    "Type" : {
+                        "Mounting" : "Table Fan",
+                        "Controller" : "Manual Control",
+                        "Speeds" : 3,
+                        "Blades" : "",
+                        "Material" : "Plastic"
+                    }
+                },
+                "Description" : "Lasko 3-Speed 12\" Table Fan - White"
+                
+            },
+            {
+                "ID" : 27,
+                "Name" : "PELANZENHAU 8 inch Table Fan",
+                "Price" : "$24.99",
+                "Rate" : "4.3 with 671 ratings",
+                "Img1" : "/Img/Picture79.png",
+                "Img2" : "/Img/Picture80.png",
+                "Img3" : "/Img/Picture81.png",
+                "File" : "/File/27-PELANZENHAU.pdf",
+                "Spec" : {
+                    "Brand" : "PELANZENHAU",
+                    "Color" : "Deep Wooden",
+                    "Efd" : {
+                        "Id" : 3,
+                        "Name" : "Table Fan" 
+                            },
+                    "Style" : "Classic",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "3.4\"D x 9.7\"W x 9.4\"H",
+                    "Room" : "Office, Home Office",
+                    "Feature" : "Lightweight",
+                    "Recommend" : "Cooling",
+                    "Type" : {
+                        "Mounting" : "Table Fan",
+                        "Controller" : "Remote Control",
+                        "Speeds" : 3,
+                        "Blades" : "",
+                        "Material" : "Wood"
+                    }
+                },
+                "Description" : "PELANZENHAU 8 inch Table Fan with Remote, USB Powered Desk Fan with RGB Light & Timer, 3 Strong Speeds & 360° Pivot Adjustable, Desktop Air Circulator Fan for Home Office Dorm RV Bedroom Travel"
+                
+            },
+            {
+                "ID" : 28,
+                "Name" : "PELONIS Table Fan",
+                "Price" : "$29.9",
+                "Rate" : "4.6 with 987 ratings",
+                "Img1" : "/Img/Picture82.png",
+                "Img2" : "/Img/Picture83.png",
+                "Img3" : "/Img/Picture84.png",
+                "File" : "/File/28-PELONIS.pdf",
+                "Spec" : {
+                    "Brand" : "PELONIS",
+                    "Color" : "Black",
+                    "Efd" : {
+                        "Id" : 3,
+                        "Name" : "Table Fan" 
+                            },
+                    "Style" : "",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "10.2\"D x 12.1\"W x 17.95\"H",
+                    "Room" : "Kitchen, Bathroom, Office, Bedroom",
+                    "Feature" : "Manual",
+                    "Recommend" : "Cooling",
+                    "Type" : {
+                        "Mounting" : "Desk Fan, Freestanding, Table Fan",
+                        "Controller" : "Button Control",
+                        "Speeds" : "",
+                        "Blades" : 3,
+                        "Material" : "Plastic"
+                    }
+                },
+                "Description" : "PELONIS Table Fan 12-Inch Oscillating Table Fan Small Portable Electric PlugIn Desk Fan 3-Speeds Adjustable Tilt Head for Bedroom and Office Black"
+            },
+            {
+                "ID" : 29,
+                "Name" : "SmartDevil USB Desk Fan",
+                "Price" : "$18.99",
+                "Rate" : "4.5 with 3.780 ratings",
+                "Img1" : "/Img/Picture85.png",
+                "Img2" : "/Img/Picture86.png",
+                "Img3" : "/Img/Picture87.png",
+                "File" : "/File/29-SmartDevil.pdf",
+                "Spec" : {
+                    "Brand" : "Smart Devil",
+                    "Color" : "White",
+                    "Efd" : {
+                        "Id" : 3,
+                        "Name" : "Table Fan" 
+                            },
+                    "Style" : "",
+                    "Power" : "USB Powered",
+                    "Dimension" : "4.47\"D x 5.63\"W x 6.65\"H",
+                    "Room" : "Home Office, Bedroom",
+                    "Feature" : "Portable, Adjustable",
+                    "Recommend" : "Home, Office, Travel, Cooling",
+                    "Type" : {
+                        "Mounting" : "Free Standing, Table Top",
+                        "Controller" : "Button Control",
+                        "Speeds" : "",
+                        "Blades" : 5,
+                        "Material" : "Cord"
+                    }
+                },
+                "Description" : "SmartDevil USB Desk Fan, Small Personal Desktop Table Fan with Strong Wind, Quiet Operation Portable Mini Fan for Home Office Bedroom Table and Desktop (White), 5.23 Inch"
+            },
+            {
+                "ID" : 30,
+                "Name" : "USB Desk Fan",
+                "Price" : "$9.9",
+                "Rate" : "4.5 with 24 ratings",
+                "Img1" : "/Img/Picture88.png",
+                "Img2" : "/Img/Picture89.png",
+                "Img3" : "/Img/Picture90.png",
+                "File" : "/File/30-USB Desk Fan.pdf",
+                "Spec" : {
+                    "Brand" : "WHILIGHTGOD",
+                    "Color" : "Black",
+                    "Efd" : {
+                        "Id" : 3,
+                        "Name" : "Table Fan" 
+                            },
+                    "Style" : "Modern",
+                    "Power" : "USB Powered",
+                    "Dimension" : "2.3\"D x 4.9\"W x 3\"H",
+                    "Room" : "Office, Bedroom",
+                    "Feature" : "Portable",
+                    "Recommend" : "Cooling",
+                    "Type" : {
+                        "Mounting" : "Wall Mount",
+                        "Controller" : "Button Control",
+                        "Speeds" : 3,
+                        "Blades" : "",
+                        "Material" : "Plastic"
+                    }
+                },
+                "Description" : "USB Desk Fan, Mini Fan but Powerful, Portable USB Fan with 3 Speeds, Quiet Table Personal Fan, 360°Rotate Coolness, Small Table Fan for Home,Office, Bedroom, Desktop,Travel, USB Powered, Black"
+                
+            },
+            {
+                "ID" : 31,
+                "Name" : "DEIOVR Air Purification Leafless Fan",
+                "Price" : "$327.99",
+                "Rate" : "5.0",
+                "Img1" : "/Img/Bladeless_6.1.png",
+                "Img2" : "/Img/Bladeless_6.3.png",
+                "Img3" : "/Img/Bladeless_6.5.png",
+                "File" : "/File/31-DEIOVR Air Bladeless Fan.pdf",
+                "Spec" : {
+                    "Brand" : "DEIOVR",
+                    "Color" : "Sliver Black",
+                    "Efd" : {
+                        "Id" : 4,
+                        "Name" : "Bladeless Fan" 
+                             },
+                    "Style" : "Custom",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "7.0 Oscillating 9\"D x 39.37\"W x 9.84\"H",
+                    "Room" : "Bedroom, Living Room",
+                    "Feature" : "Oscillating",
+                    "Recommend" : "Air Circulation",
+                    "Type" : {
+                        "Mounting" : "Free Standing",
+                        "Controller" : "Remote Control, Button Control",
+                        "Speeds" : 10,
+                        "Blades" : "",
+                        "Material" : ""
+                    }
+                },
+                "Description" : "DEIOVR Air Purification Leafless Fan Household Silent Desktop Shaking Head Stand Fan Remote Control Tower Fan 42 Inch Electric Fan"
+            },
+            {
+                "ID" : 32,
+                "Name" : "Fan Hot & Cool Bladeless Tower",
+                "Price" : " $423.21",
+                "Rate" : "4.9",
+                "Img1" : "/Img/Bladeless_7.1.png",
+                "Img2" : "/Img/Bladeless_7.3.png",
+                "Img3" : "/Img/Bladeless_7.4.png",
+                "File" : "/File/32-Fan Bladeless Fan.pdf",
+                "Spec" : {
+                    "Brand" : "FAN",
+                    "Color" : "Sliver White",
+                    "Efd" : {
+                        "Id" : 4,
+                        "Name" : "Bladeless Fan" 
+                             },
+                    "Style" : "Custom",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "7.0 Oscillating 9\"D x 39.37\"W x 9.84\"H",
+                    "Room" : "Bedroom, Living Room",
+                    "Feature" : "Oscillating",
+                    "Recommend" : "Cooling",
+                    "Type" : {
+                        "Mounting" : "Free Standing",
+                        "Controller" : "Remote Control, Button Control",
+                        "Speeds" : 3,
+                        "Blades" : "",
+                        "Material" : ""
+                    }
+                },
+                "Description" : "Fan Hot & Cool Bladeless Tower with Remote Control, Air Fast Cooling Immediate Heating, Ultra-Quiet Desktop, Gold/Silver"
+            },
+            {
+                "ID" : 33,
+                "Name" : "HAAVEN Bladeless Tower Fan",
+                "Price" : "$130.05",
+                "Rate" : "4.4",
+                "Img1" : "/Img/Bladeless_10.1.png",
+                "Img2" : "/Img/Bladeless_10.3.png",
+                "Img3" : "/Img/Bladeless_10.4.png",
+                "File" : "/File/33-HAAVEN Bladeless Fan.pdf",
+                "Spec" : {
+                    "Brand" : "HAAVEN",
+                    "Color" : "Black Grey",
+                    "Efd" : {
+                        "Id" : 4,
+                        "Name" : "Bladeless Fan" 
+                             },
+                    "Style" : "Modern",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "7.0 Oscillating 9\"D x 39.37\"W x 9.84\"H",
+                    "Room" : "Office, Kitchen, Bedroom, Living Room",
+                    "Feature" : "Portable, Bladeless, Oscillating",
+                    "Recommend" : "Cooling",
+                    "Type" : {
+                        "Mounting" : "Free Standing",
+                        "Controller" : "Remote Control, Button Control",
+                        "Speeds" : 8,
+                        "Blades" : "",
+                        "Material" : ""
+                    }
+                },
+                "Description" : "HAAVEN Bladeless Tower Fan with Remote 20 inch Table Cooling Fan 80° Oscillating Desk Fan with 8 Speeds Standing Desktop Quiet Fan for Home Office Desktop Bedroom"
+            },
+            {
+                "ID" : 34,
+                "Name" : "HealSmart Medium size portable bladeless fan",
+                "Price" : " $85.99",
+                "Rate" : "3.4",
+                "Img1" : "/Img/Bladeless_4.1.png",
+                "Img2" : "/Img/Bladeless_4.2.png",
+                "Img3" : "/Img/Bladeless_4.5.png",
+                "File" : "/File/34-HealSmart Bladeless fan.pdf",
+                "Spec" : {
+                    "Brand" : "HealSmart",
+                    "Color" : "Black",
+                    "Efd" : {
+                        "Id" : 4,
+                        "Name" : "Bladeless Fan" 
+                             },
+                    "Style" : "Fan",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "17.3\"D x 7.9\"W x 13.8\"H",
+                    "Room" : "Kitchen, Bedroom, Living Room",
+                    "Feature" : "Manual",
+                    "Recommend" : "Travel",
+                    "Type" : {
+                        "Mounting" : "Free Standing",
+                        "Controller" : "Remote Control",
+                        "Speeds" : 10,
+                        "Blades" : "",
+                        "Material" : ""
+                    }
+                },
+                "Description" : "HealSmart Medium size portable bladeless fan, small table fan, 10 speeds settings, 10-hour timing closure bladeless fan, stylish and modern fan, low noise, lightweight, 24 inches, black"
+                
+            },
+            {
+                "ID" : 35,
+                "Name" : "InfiniPower Bladeless Wall Mount Fan ",
+                "Price" : "$118.99",
+                "Rate" : "4.2",
+                "Img1" : "/Img/Bladeless_3.1.png",
+                "Img2" : "/Img/Bladeless_3.3.png",
+                "Img3" : "/Img/Bladeless_3.6.png",
+                
+                "File" : "/File/35-InfiniPower Bladeless Fan.pdf",
+                "Spec" : {
+                    "Brand" : "InfiniPower",
+                    "Color" : "Grey",
+                    "Efd" : {
+                        "Id" : 4,
+                        "Name" : "Bladeless Fan" 
+                             },
+                    "Style" : "Fan",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "11\"D x 15.7\"W x 6.9\"H",
+                    "Room" : "Kitchen, Bedroom, Living Room",
+                    "Feature" : "Manual",
+                    "Recommend" : "Air Circulation",
+                    "Type" : {
+                        "Mounting" : "Free Standing",
+                        "Controller" : "Remote Control",
+                        "Speeds" : 10,
+                        "Blades" : "",
+                        "Material" : ""
+                    }
+                },
+                "Description" : "InfiniPower Bladeless Wall Mount Fan with Remote Control, 15.7\" Circulation Cooling for Bedroom Sleeping,Table/De sk,Living Room,Home,Office,Commercial Shop"
+                
+            },
+            {
+                "ID" : 36,
+                "Name" : "LSQXSS 18inch leafless tower fan",
+                "Price" : " $209.99",
+                "Rate" : "4.6",
+                "Img1" : "/Img/Bladeless_9.1.png",
+                "Img2" : "/Img/Bladeless_9.2.png",
+                "Img3" : "/Img/Bladeless_9.3.png",
+                "File" : "/File/36-LSQXSS  Air Bladeless Fan.pdf",
+                "Spec" : {
+                    "Brand" : "LSQXSS",
+                    "Color" : "Black Grey",
+                    "Efd" : {
+                        "Id" : 4,
+                        "Name" : "Bladeless Fan" 
+                             },
+                    "Style" : "Custom",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "7.0 Oscillating 9\"D x 39.37\"W x 9.84\"H",
+                    "Room" : "Office, Kitchen, Bedroom, Living Room",
+                    "Feature" : "Portable, Bladeless, Oscillating",
+                    "Recommend" : "Cooling",
+                    "Type" : {
+                        "Mounting" : "Free Standing",
+                        "Controller" : "Remote Control, Button Control",
+                        "Speeds" : 8,
+                        "Blades" : "",
+                        "Material" : ""
+                    }
+                },
+                "Description" : "LSQXSS 18inch leafless tower fan,summer air cooler fan with remote,gentle natural wind blowing fan,8 speeds wind,8h timer,80° oscillating air circulator"
+            },
+            {
+                "ID" : 37,
+                "Name" : "mollie 38-Inch Quiet Oscillating Bladeless Tower Fan ",
+                "Price" : "$96.46",
+                "Rate" : "5.0",
+                "Img1" : "/Img/Bladeless_2.1.png",
+                "Img2" : "/Img/Bladeless_2.2.png",
+                "Img3" : "/Img/Bladeless_2.6.png",
+                
+                "File" : "/File/37-mollie Bladeless Fan.pdf",
+                "Spec" : {
+                    "Brand" : "Mollie",
+                    "Color" : "White",
+                    "Efd" : {
+                        "Id" : 4,
+                        "Name" : "Bladeless Fan" 
+                             },
+                    "Style" : "Modern",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "9.5\"D x 9.5\"W x 38\"H",
+                    "Room" : "Bedroom, Office, Living Room, Dining Room",
+                    "Feature" : "Oscillating",
+                    "Recommend" : "Cooling, Air Circulation",
+                    "Type" : {
+                        "Mounting" : "Free Standing",
+                        "Controller" : "Remote Control",
+                        "Speeds" : 10,
+                        "Blades" : "",
+                        "Material" : ""
+                    }
+                },
+                "Description" : "mollie 38-Inch Quiet Oscillating Bladeless Tower Fan Remote Control Bedroom Office Home Room Indoor 9H Timer 10-Speeds Modes Electric Household Summer Cooling Floor Standing Leafless Fan"
+            },
+            {
+                "ID" : 38,
+                "Name" : "Simple Deluxe Medium size portable bladeless fan",
+                "Price" : "$81.41",
+                "Rate" : "3.6",
+                "Img1" : "/Img/Bladeless_1.1.png",
+                "Img2" : "/Img/Bladeless_1.2.png",
+                "Img3" : "/Img/Bladeless_1.5.png",
+                "File" : "/File/38-Simple Deluxe Bladeless fan.pdf",
+                "Spec" : {
+                    "Brand" : "Simple Deluxe",
+                    "Color" : "Black",
+                    "Efd" : {
+                        "Id" : 4,
+                        "Name" : "Bladeless Fan" 
+                             },
+                    "Style" : "",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "17.3\"D x 7.9\"W x 13.8\"H",
+                    "Room" : "Living Room, Bedroom",
+                    "Feature" : "Manual",
+                    "Recommend" : "Travel",
+                    "Type" : {
+                        "Mounting" : "Bladeless Fan",
+                        "Controller" : "Remote Control",
+                        "Speeds" : 10,
+                        "Blades" : "",
+                        "Material" : ""
+                    }
+                },
+                "Description" : "Simple Deluxe Medium size portable bladeless fan, small table fan, 10 speeds settings, 10-hour timing closure bladeless fan, stylish and modern fan, low noise, lightweight, 24 inches, black"
+                
+            },
+            {
+                "ID" : 39,
+                "Name" : "Air Conditioners Bladeless Tower Fan",
+                "Price" : "$463.14",
+                "Rate" : "4.9",
+                "Img1" : "/Img/Bladeless_8.1.png",
+                "Img2" : "/Img/Bladeless_8.2.png",
+                "Img3" : "/Img/Bladeless_8.3.png",
+                
+                "File" : "/File/39-Yoo Air Bladeless Fan.pdf",
+                "Spec" : {
+                    "Brand" : "Yoo",
+                    "Color" : "Blue White",
+                    "Efd" : {
+                        "Id" : 4,
+                        "Name" : "Bladeless Fan" 
+                             },
+                    "Style" : "Custom",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "7.0 Oscillating 9\"D x 39.37\"W x 9.84\"H",
+                    "Room" : "Office, Kitchen, Bedroom, Living Room",
+                    "Feature" : "Portable, Bladeless, Oscillating",
+                    "Recommend" : "Cooling",
+                    "Type" : {
+                        "Mounting" : "Free Standing",
+                        "Controller" : "Remote Control, Button Control",
+                        "Speeds" : 3,
+                        "Blades" : "",
+                        "Material" : ""
+                    }
+                },
+                "Description" : "Air Conditioners Bladeless Tower Fan Oscillating Quiet Cooling Fan 9 Hour Timer 10 Gears Settings Smart Touch Or Remote Controlled Stand Up Floor Portable Fans For Bedroom And Home Office"
+            },
+            {
+                "ID" : 40,
+                "Name" : "ZUMAHA Electric Fan",
+                "Price" : "$218.99",
+                "Rate" : "5.0",
+                "Img1" : "/Img/Bladeless_5.1.png",
+                "Img2" : "/Img/Bladeless_5.2.png",
+                "Img3" : "/Img/Bladeless_5.3.png",
+               
+                "File" : "/File/40-ZUMAHA Bladeless Fan.pdf",
+                "Spec" : {
+                    "Brand" : "ZUMAHA",
+                    "Color" : "White",
+                    "Efd" : {
+                        "Id" : 4,
+                        "Name" : "Bladeless Fan" 
+                             },
+                    "Style" : "Custom",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "7.0 Oscillating 9\"D x 39.37\"W x 9.84\"H",
+                    "Room" : "Bedroom, Living Room",
+                    "Feature" : "Oscillating",
+                    "Recommend" : "Air Circulation",
+                    "Noise" : "",
+                    "Type" : {
+                        "Mounting" : "Free Standing",
+                        "Controller" : "Remote Control, Button Control",
+                        "Speeds" : 10,
+                        "Blades" : "",
+                        "Material" : ""
+                    }
+                },
+                "Description" : "ZUMAHA Electric Fan Standing Fans High Energy 10 Operation Modes Remote Oscillating Movement with Space-Saving Design Indoor 24H Timer Tower Fan Cool"
+            },
+            {
+                "ID" : 41,
+                "Name" : "Amazon Basics Oscillating Dual Blade Standing Pedestal Fan",
+                "Price" : "$47.76",
+                "Rate" : "4.6",
+                "Img1" : "/Img/Pedestal_fan_1.1.png",
+                "Img2" : "/Img/Pedestal_fan_1.2.png",
+                "Img3" : "/Img/Pedestal_fan_1.6.png",
+                "File" : "/File/41-Amazon Pedestal Fan.pdf",
+                "Brand":{
+                    "id":1,
+                    "name": "Amazon"
+                },
+                "Top": 2,
+                "Spec" : {
+                    "Brand" : "Amazon Basics",
+                    "Color" : "Black",
+                    "Efd" : {
+                        "Id" : 5,
+                        "Name" : "Pedestal" 
+                            },
+                    "Style" : "Fan",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "15.75\"D x 17.72\"W x 53.15\"H",
+                    "Room" : "Bedroom",
+                    "Feature" : "Oscillating, Remote Controlled, Adjustable Height, Adjustable Tilt, Timer",
+                    "Recommend" : "Cooling, Air Circulation",
+                    "Type" : {
+                        "Mounting" : "Pedestal Fan",
+                        "Controller" : "Remote Control",
+                        "Speeds" : 3,
+                        "Blades" : 3,
+                        "Material" : ""
+                    }
+                },
+                "Description" : "Amazon Basics Oscillating Dual Blade Standing Pedestal Fan with Remote, 16- Inch, Black"
+            },
+            {
+                "ID" : 42,
+                "Name" : "BLACK+DEC KER 16 Inches Stand Fan",
+                "Price" : " $47.81",
+                "Rate" : "4.1",
+                "Img1" : "/Img/Pedestal_fan_5.1.png",
+                "Img2" : "/Img/Pedestal_fan_5.2.png",
+                "Img3" : "/Img/Pedestal_fan_5.5.png",
+                
+                "File" : "/File/42-BLACK+DECKER Pedestal Fan.pdf",
+                "Spec" : {
+                    "Brand" : "BLACK+DECKER",
+                    "Color" : "Black",
+                    "Efd" : {
+                        "Id" : 5,
+                        "Name" : "Pedestal" 
+                            },
+                    "Style" : "Modern",
+                    "Power" : "Battery Powered",
+                    "Dimension" : "15.3\"D x 15.3\"W x 49\"H",
+                    "Room" : "Bedroom, Living Room",
+                    "Feature" : "Programmable, Adjustable Height, Adjustable Tilt, Oscillating, Remote Controlled, Timer, LED Light",
+                    "Recommend" : "Cooling, Air Circulation",
+                    "Noise" : "",
+                    "Type" : {
+                        "Mounting" : "Floor Mount",
+                        "Controller" : "Remote Control, Button Control",
+                        "Speeds" : 3,
+                        "Blades" : 3,
+                        "Material" : ""
+                    }
+                },
+                "Description" : "BLACK+DEC KER 16 Inches Stand Fan with Remote"
+            },
+            {
+                "ID" : 43,
+                "Name" : "Deco Breeze Pedestal Standing 3 Speed Oscillating Fan",
+                "Price" : "$109.99",
+                "Rate" : "",
+                "Img1" : "/Img/Pedestal_fan_7.1.png",
+                "Img2" : "/Img/Pedestal_fan_7.3.png",
+                "Img3" : "/Img/Pedestal_fan_7.5.png",
+                
+                "File" : "/File/43-Deco Breeze Pedestal Fan .pdf",
+                "Spec" : {
+                    "Brand" : "Deco Breeze",
+                    "Color" : "Brushed Copper",
+                    "Efd" : {
+                        "Id" : 5,
+                        "Name" : "Pedestal" 
+                            },
+                    "Style" : "Retro",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "18\"D x 18\"W x 48\"H",
+                    "Room" : "Living Room, Dining Room",
+                    "Feature" : "Oscillating",
+                    "Recommend" : "Home",
+                    "Type" : {
+                        "Mounting" : "Floor Mount",
+                        "Controller" : "Button Control",
+                        "Speeds" : 3,
+                        "Blades" : 4,
+                        "Material" : ""
+                    }
+                },
+                "Description" : "Deco Breeze Pedestal Standing 3 Speed Oscillating Fan with Adjustable Height, 16 inches, Brushed Copper"
+            },
+            {
+                "ID" : 44,
+                "Name" : "Dreo Pedestal Fan",
+                "Price" : "$139.99",
+                "Rate" : "4.8",
+                "Img1" : "/Img/Pedestal_fan_4.1.png",
+                "Img2" : "/Img/Pedestal_fan_4.2.png",
+                "Img3" : "/Img/Pedestal_fan_4.4.png",
+                "File" : "/File/44-Dreo Pedestal Fan .pdf",
+                "Spec" : {
+                    "Brand" : "Dreo",
+                    "Color" : "Grey",
+                    "Efd" : {
+                        "Id" : 5,
+                        "Name" : "Pedestal" 
+                            },
+                    "Style" : "Modern",
+                    "Power" : "Dc",
+                    "Dimension" : "12.87\"D x 14.12\"W x 43.54\"H",
+                    "Room" : "Kids Room, Bedroom, Living Room, Dining Room",
+                    "Feature" : "Remote Controlled, Adjustable Height, Wi-Fi Enabled, Timer, Adjustable Tilt, Oscillating",
+                    "Recommend" : "Cooling, Ventilating, Air Circulation",
+                    "Type" : {
+                        "Mounting" : "Pedestal Fan",
+                        "Controller" : "Remote Control, Touchpad Control",
+                        "Speeds" : 8,
+                        "Blades" : 5,
+                        "Material" : ""
+                    }
+                },
+                "Description" : "Dreo Pedestal Fan with Remote, PolyFan 513S, 43'' Quiet Standing Fan for Home Bedroom, 120°+105° Smart Oscillating Floor Fans with WiFi/Voice Control, Works with Alexa/Google, 6 Modes, 8"
+            },
+            {
+                "ID" : 45,
+                "Name" : "HOLMES 16\" Chrome Digital Stand Fan",
+                "Price" : " $79.99",
+                "Rate" : "4.0",
+                "Img1" : "/Img/Pedestal_fan_9.1.png",
+                "Img2" : "/Img/Pedestal_fan_9.2.png",
+                "Img3" : "/Img/Pedestal_fan_9.3.png",
+                "File" : "/File/45-HOLMES Pedestal Fan.pdf",
+                "Spec" : {
+                    "Brand" : "HOLMES",
+                    "Color" : "Chrome",
+                    "Efd" : {
+                        "Id" : 5,
+                        "Name" : "Pedestal" 
+                            },
+                    "Style" : "Digital Control",
+                    "Power" : "Standard 120V Outlet",
+                    "Dimension" : "17.32\"D x 15.75\"W x 49.21\"H",
+                    "Room" : "Bedroom",
+                    "Feature" : "Adjustable Height, Adjustable Tilt, Oscillating, 3 Modes",
+                    "Recommend" : "Air Circulation",
+                    "Type" : {
+                        "Mounting" : "Floor Mount",
+                        "Controller" : "Remote Control",
+                        "Speeds" : 3,
+                        "Blades" : 4,
+                        "Material" : ""
+                    }
+                },
+                "Description" : "HOLMES 16\" Chrome Digital Stand Fan, 75° Oscillation, 3 Speeds, 4 Blades, 3 Modes, Adjustable Height, 18° Head Tilt, Ideal for Home, Bedroom or Office, Remote Control"
+            },
+            {
+                "ID" : 46,
+                "Name" : "InfiniPower Oscillating 16\" Adjustable 3 Speed Pedestal Stand Fan",
+                "Price" : "$42.99",
+                "Rate" : "3.9",
+                "Img1" : "/Img/Pedestal_fan_8.1.png",
+                "Img2" : "/Img/Pedestal_fan_8.4.png",
+                "Img3" : "/Img/Pedestal_fan_8.5.png",
+                
+                "File" : "/File/46-InfiniPower Pedestal Stand Fan.pdf",
+                "Spec" : {
+                    "Brand" : "InfiniPower",
+                    "Color" : "Black",
+                    "Efd" : {
+                        "Id" : 5,
+                        "Name" : "Pedestal" 
+                            },
+                    "Style" : "Stand-Remote",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "17\"D x 15\"W x 47.5\"H",
+                    "Room" : "Living Room, Bedroom",
+                    "Feature" : "3 Speed Settings",
+                    "Recommend" : "Bedroom, Indoor, Home",
+                    "Type" : {
+                        "Mounting" : "Floor Mount",
+                        "Controller" : "Remote Control",
+                        "Speeds" : 3,
+                        "Blades" : 5,
+                        "Material" : ""
+                    }
+                },
+                "Description" : "InfiniPower Oscillating 16″ Adjustable 3 Speed Pedestal Stand Fan with Remote Control for Indoor, Bedroom, Living Room, Home Office & College Dorm Use"
+            },
+            {
+                "ID" : 47,
+                "Name" : "Lago 14-Inch Diameter 9- Speed Oscillating Floor Pedestal Fan",
+                "Price" : "$93.47",
+                "Rate" : "4.5",
+                "Img1" : "/Img/Pedestal_fan_10.1.png",
+                "Img2" : "/Img/Pedestal_fan_10.2.png",
+                "Img3" : "/Img/Pedestal_fan_10.5.png",
+                "File" : "/File/47-Lago Pedestal Fan.pdf",
+                "Spec" : {
+                    "Brand" : "Lago",
+                    "Color" : "White",
+                    "Efd" : {
+                        "Id" : 5,
+                        "Name" : "Pedestal" 
+                            },
+                    "Style" : "Contemporary",
+                    "Power" : "AC",
+                    "Dimension" : "14\"D x 14\"W x 49\"H",
+                    "Room" : "Bedroom, Living Room",
+                    "Feature" : "Programmable",
+                    "Recommend" : "Indoor",
+                    "Type" : {
+                        "Mounting" : "Floor Mount",
+                        "Controller" : "Remote Control",
+                        "Speeds" : 9,
+                        "Blades" : 5,
+                        "Material" : ""
+                    }
+                },
+                "Description" : "Lago 14-Inch Diameter 9- Speed Oscillating Floor Pedestal Fan with Electric Remote Control - 9 Wind Speeds, TiltBack Fan Head"
+            },
+            {
+                "ID" : 48,
+                "Name" : "Lasko 2520 Oscillating Stand Fan",
+                "Price" : "$59.99",
+                "Rate" : "4.5",
+                "Img1" : "/Img/Pedestal_fan_3.1.png",
+                "Img2" : "/Img/Pedestal_fan_3.4.png",
+                "Img3" : "/Img/Pedestal_fan_3.6.png",
+                
+                "File" : "/File/48-Lasko Pedestal Stand Fan.pdf",
+                "Brand":{
+                    "id":3,
+                    "name": "Lasko"
+                },
+                "Top": 2,
+                "Spec" : {
+                    "Brand" : "Lasko",
+                    "Color" : "White",
+                    "Efd" : {
+                        "Id" : 5,
+                        "Name" : "Pedestal" 
+                            },
+                    "Style" : "Pedestal Fan",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "17\"D x 18\"W x 47\"H",
+                    "Room" : "Kitchen, Bedroom, Living Room, Home Office",
+                    "Feature" : "Fully-adjustable height, tilt fan head, and 3 speeds for complete airflow customization",
+                    "Recommend" : "Office, Bedroom, Outdoor",
+                    "Type" : {
+                        "Mounting" : "Pedestal Fan",
+                        "Controller" : "Manual Control",
+                        "Speeds" : 4,
+                        "Blades" : 3,
+                        "Material" : ""
+                    }
+                },
+                "Description" : "Lasko 2520 Oscillating Stand Fan,White 16 Inch"
+            },
+            {
+                "ID" : 49,
+                "Name" : "PELONIS 16\" Pedestal Remote Control, Oscillating Stand Up Fan",
+                "Price" : "$59.99",
+                "Rate" : "4.5",
+                "Img1" : "/Img/Pedestal_fan_2.1.png",
+                "Img2" : "/Img/Pedestal_fan_2.2.png",
+                "Img3" : "/Img/Pedestal_fan_2.3.png",
+                
+                "File" : "/File/49-PELONIS Pedestal Fan .pdf",
+                "Spec" : {
+                    "Brand" : "PELONIS",
+                    "Color" : "Black",
+                    "Efd" : {
+                        "Id" : 5,
+                        "Name" : "Pedestal" 
+                            },
+                    "Style" : "Pedestal Fan",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "15\"D x 17.91\"W x 48.43\"H",
+                    "Room" : "Bedoom, Living room, Kitchen, Home Office",
+                    "Feature" : "Adjustable he Timer ight, Adjustable Tilt, Oscillating,",
+                    "Recommend" : "Cooling, Ventilating, Air Circulation",
+                    "Type" : {
+                        "Mounting" : "Floor Mount",
+                        "Controller" : "Remote Control",
+                        "Speeds" : 3,
+                        "Blades" : 3,
+                        "Material" : ""
+                    }
+                },
+                "Description" : "PELONIS 16\" Pedestal Remote Control, Oscillating Stand Up Fan 7-Hour Timer, 3- Speed"
+            },
+            {
+                "ID" : 50,
+                "Name" : "Simple Deluxe Pedestal Stand Fan",
+                "Price" : "$39.99",
+                "Rate" : "4.2",
+                "Img1" : "/Img/Pedestal_fan_6.1.png",
+                "Img2" : "/Img/Pedestal_fan_6.3.png",
+                "Img3" : "/Img/Pedestal_fan_6.4.png",
+                
+                "File" : "/File/50-Simple Deluxe Pedestal Stand Fan.pdf",
+                "Spec" : {
+                    "Brand" : "Simple Deluxe",
+                    "Color" : "Black",
+                    "Efd" : {
+                        "Id" : 5,
+                        "Name" : "Pedestal" 
+                            },
+                    "Style" : "",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "17\"D x 15\"W x 47.5\"H",
+                    "Room" : "Bedroom, Living Room",
+                    "Feature" : "3 Speed Settings",
+                    "Recommend" : "Bedroom, Indoor, Home",
+                    "Type" : {
+                        "Mounting" : "Floor Mount",
+                        "Controller" : "Remote Control, Button Control",
+                        "Speeds" : 5,
+                        "Blades" : 3,
+                        "Material" : ""
+                    }
+                },
+                "Description" : "Simple Deluxe Pedestal Stand Fan with Remote Control for Indoor, Bedroom, Living Room, Home Office & College Dorm Use,3 Speed, Black, 16 Inch"
+            },
+            {
+                "ID" : 51,
+                "Name" : "Amazon Basics Manual 3 Speed Oscillating Tower Fan",
+                "Price" : "$49.87",
+                "Rate" : "3.8",
+                "Img1" : "/Img/Tower_fan_9.1.png",
+                "Img2" : "/Img/Tower_fan_9.5.png",
+                "Img3" : "/Img/Tower_fan_9.6.png",
+                "File" : "/File/51-Amazon Tower Fan.pdf",
+                "Brand":{
+                    "id":1,
+                    "name": "Amazon"
+                },
+                "Top": 2,
+                "Spec" : {
+                    "Brand" : "Amazon Basics",
+                    "Color" : "Black",
+                    "Efd" : {
+                        "Id" : 6,
+                        "Name" : "Tower Fan" 
+                            },
+                    "Style" : "Modern",
+                    "Power" : "Manual",
+                    "Dimension" : "12.5\"D x 12.5\"W x 44.5\"H",
+                    "Room" : "Bedroom, Living Room",
+                    "Feature" : "Oscillating",
+                    "Recommend" : "Cooling",
+                    "Type" : {
+                        "Mounting" : "Free Standing",
+                        "Controller" : "Remote Control",
+                        "Speeds" : 3,
+                        "Blades" : "",
+                        "Material" : "Plastic, Metal"
+                    }
+                },
+                "Description" : "Amazon Basics Manual 3 Speed Oscillating Tower Fan with Mechanical Control, 28 Inch, Black"
+            },
+            {
+                "ID" : 52,
+                "Name" : "Dreo Tower Fan",
+                "Price" : "$69.99",
+                "Rate" : "4.6",
+                "Img1" : "/Img/Tower_fan_1.1.png",
+                "Img2" : "/Img/Tower_fan_1.2.png",
+                "Img3" : "/Img/Tower_fan_1.6.png",
+                
+                "File" : "/File/52-Dreo Tower Fan for Bedroom.pdf",
+                "Brand":{
+                    "id":2,
+                    "name": "Dreo"
+                },
+                "Top": 1,
+                "Spec" : {
+                    "Brand" : "Dreo",
+                    "Color" : "Black",
+                    "Efd" : {
+                        "Id" : 6,
+                        "Name" : "Tower Fan" 
+                            },
+                    "Style" : "Standard",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "11.81\"D x 11.81\"W x 36.22\"H",
+                    "Room" : "Kitchen, Bedroom, Living Room, office, Dining Room, home",
+                    "Feature" : "Remote Controlled, Oscillating, Timer, Bladeless, Portable",
+                    "Recommend" : "Home, Cooling, Air Circulation",
+                    "Type" : {
+                        "Mounting" : "Free Standing",
+                        "Controller" : "Touchpad Control, Remote Control",
+                        "Speeds" : 4,
+                        "Blades" : "",
+                        "Material" : "Plastic"
+                    }
+                },
+                "Description" : "Dreo Tower Fan for Bedroom, 24ft/s Velocity Quiet Cooling Fan, 90° Oscillating Fans for Indoors with 4 Speeds, 4 Modes, 8H Timer, Bladeless Fan, Standing Floor Fans, Black, Nomad One (DR-HTF007)"
+            },
+            {
+                "ID" : 53,
+                "Name" : "HOLMES STACK-NCONNECT 45\" Digital Tower Fan",
+                "Price" : "$72.99",
+                "Rate" : "4.3",
+                "Img1" : "/Img/Tower_fan_7.1.png",
+                "Img2" : "/Img/Tower_fan_7.4.png",
+                "Img3" : "/Img/Tower_fan_7.5.png",
+                "File" : "/File/53-HOLMES Digital Tower Fan.pdf",
+                "Spec" : {
+                    "Brand" : "HOLMES",
+                    "Color" : "Black",
+                    "Efd" : {
+                        "Id" : 6,
+                        "Name" : "Tower Fan" 
+                            },
+                    "Style" : "Stack \"n\" Connect",
+                    "Power" : "Standard 120V Outlet",
+                    "Dimension" : "10.23\"D x 10.23\"W x 45\"H",
+                    "Room" : "Living Room, Bedroom",
+                    "Feature" : "Remote Controlled, Easy Storage, Timer, Oscillating",
+                    "Recommend" : "Air Circulation",
+                    "Type" : {
+                        "Mounting" : "Remote Controlled, Easy Storage, Timer, Oscillating",
+                        "Controller" : "Remote Control, Button Control",
+                        "Speeds" : 4,
+                        "Blades" : "",
+                        "Material" : "Plastic, Metal"
+                    }
+                },
+                "Description" : "HOLMES STACK-NCONNECT 45\" Digital Tower Fan, ClearRead Display, Bonus Storage Bag, 90° Oscillation, 4 Speeds, 4 Modes, 8-Hour Timer, Home, Ideal for Bedroom or Office, Remote Control, Matte Black"
+            },
+            {
+                "ID" : 54,
+                "Name" : "Honeywell HYF260 Quiet Set Whole Room Tower Fan",
+                "Price" : "$61.99",
+                "Rate" : "4.5",
+                "Img1" : "/Img/Tower_fan_4.1.png",
+                "Img2" : "/Img/Tower_fan_4.2.png",
+                "Img3" : "/Img/Tower_fan_4.3.png",
+                "File" : "/File/54-Honeywell Tower Fan.pdf",
+                "Spec" : {
+                    "Brand" : "Honeywell",
+                    "Color" : "Black",
+                    "Efd" : {
+                        "Id" : 6,
+                        "Name" : "Tower Fan" 
+                            },
+                    "Style" : "Modern",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "10\"D x 10\"W x 40\"H",
+                    "Room" : "Bedroom, Living Room",
+                    "Feature" : "Corded",
+                    "Recommend" : "Air Circulation",
+                    "Type" : {
+                        "Mounting" : "Free Standing",
+                        "Controller" : "Remote Control, Button Control",
+                        "Speeds" : 5,
+                        "Blades" : "",
+                        "Material" : "Bamboo"
+                    }
+                },
+                "Description" : "Honeywell HYF260 Quiet Set Whole Room Tower Fan, White"
+            },
+            {
+                "ID" : 55,
+                "Name" : "Lasko Oscillating Tower Fan",
+                "Price" : "$65.29",
+                "Rate" : "4.5",
+                "Img1" : "/Img/Tower_fan_5.1.png",
+                "Img2" : "/Img/Tower_fan_5.3.png",
+                "Img3" : "/Img/Tower_fan_5.6.png",
+                "File" : "/File/55-Lasko Oscillating Tower Fan.pdf",
+                "Brand":{
+                    "id":3,
+                    "name": "Lasko"
+                },
+                "Top": 2,
+                "Spec" : {
+                    "Brand" : "Lasko",
+                    "Color" : "Black",
+                    "Efd" : {
+                        "Id" : 6,
+                        "Name" : "Tower Fan" 
+                            },
+                    "Style" : "Modern",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "12\"D x 12\"W x 36\"H",
+                    "Room" : "Kids Room, Living Room, Bedroom, Home Office",
+                    "Feature" : "Remote Controlled, Timer, Oscillating",
+                    "Recommend" : "Cooling, Air Circulation",
+                    "Type" : {
+                        "Mounting" : "Window Mount",
+                        "Controller" : "Remote Control, Button Control",
+                        "Speeds" : 3,
+                        "Blades" : "",
+                        "Material" : "Plastic, Metal"
+                    }
+                },
+                "Description" : "Lasko Oscillating Tower Fan, 3 Quiet Speeds, Timer, Remote Control, for Bedroom, Kitchen, Office, 36\", Black, 2511"
+            },
+            {
+                "ID" : 56,
+                "Name" : "LEVOIT Tower Fan",
+                "Price" : "$59.99",
+                "Rate" : "4.6",
+                "Img1" : "/Img/Tower_fan_2.1.png",
+                "Img2" : "/Img/Tower_fan_2.2.png",
+                "Img3" : "/Img/Tower_fan_2.5.png",
+                
+                "File" : "/File/56-LEVOIT Tower Fan for Bedroom.pdf",
+                "Brand":{
+                    "id":4,
+                    "name": "Levoit"
+                },
+                "Top": 2,
+                "Spec" : {
+                    "Brand" : "LEVOIT",
+                    "Color" : "White",
+                    "Efd" : {
+                        "Id" : 6,
+                        "Name" : "Tower Fan" 
+                            },
+                    "Style" : "Classic 36' White",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "6.5\"D x 6.5\"W x 36.2\"H",
+                    "Room" : "Kitchen, Living Room, Bedroom, Home Office, Dining Room",
+                    "Feature" : "Remote Controlled, Timer, LED Light, Bladeless, Oscillating",
+                    "Recommend" : "Cooling, Ventilating, Air Circulation",
+                    "Type" : {
+                        "Mounting" : "Free Standing",
+                        "Controller" : "Remote Control, Button Control",
+                        "Speeds" : 5,
+                        "Blades" : "",
+                        "Material" : "Plastic"
+                    }
+                },
+                "Description" : "LEVOIT Tower Fan for Bedroom, 25ft/s Velocity 28dB Cooling Fan, Bladeless and 90° Oscillating Fan with 5 Speeds, 4 Modes, 12H Timer, Standing Fan for Home, White, Classic 36'"
+            },
+            {
+                "ID" : 57,
+                "Name" : "mollie Oscillating Quiet Tower Fan",
+                "Price" : "$49.99",
+                "Rate" : "4.3",
+                "Img1" : "/Img/Tower_fan_3.1.png",
+                "Img2" : "/Img/Tower_fan_3.4.png",
+                "Img3" : "/Img/Tower_fan_3.6.png",
+                
+                "File" : "/File/57-mollie Oscillating Quiet Tower Fan .pdf",
+                "Spec" : {
+                    "Brand" : "Mollie",
+                    "Color" : "Black",
+                    "Efd" : {
+                        "Id" : 6,
+                        "Name" : "Tower Fan" 
+                            },
+                    "Style" : "Modern",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "12\"D x 12\"W x 38\"H",
+                    "Room" : "Office, Bedroom, Living Room",
+                    "Feature" : "Portable, High Velocity, Oscillating",
+                    "Recommend" : "Air Circulation",
+                    "Type" : {
+                        "Mounting" : "Free Standing",
+                        "Controller" : "Remote Control",
+                        "Speeds" : 3,
+                        "Blades" : "",
+                        "Material" : "Plastic"
+                    }
+                },
+                "Description" : "mollie Oscillating Quiet Tower Fan with Remote Control 3 Speeds 12H Timer Portable LED Display 38 Inch Electric Air Circulator Cooling Floor Standing Fan for Home Bedroom Office Living Room"
+            },
+            {
+                "ID" : 58,
+                "Name" : "Rowenta Urban Cool Silent Tower Fan ",
+                "Price" : "$111.99",
+                "Rate" : "4.3",
+                "Img1" : "/Img/Tower_fan_10.1.png",
+                "Img2" : "/Img/Tower_fan_10.4.png",
+                "Img3" : "/Img/Tower_fan_10.6.png",
+                
+                "File" : "/File/58-Rowenta Tower Fan.pdf",
+                "Spec" : {
+                    "Brand" : "Rowenta",
+                    "Color" : "Black + Wood Effect",
+                    "Efd" : {
+                        "Id" : 6,
+                        "Name" : "Tower Fan" 
+                            },
+                    "Style" : "Tower",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "9.06\"D x 9.06\"W x 33.86\"H",
+                    "Room" : "Bedroom, Living Room",
+                    "Feature" : "3 speeds, 2 modes",
+                    "Recommend" : "Cooling, Air Circulation, Drying",
+                    "Type" : {
+                        "Mounting" : "Free Standing",
+                        "Controller" : "Remote Control",
+                        "Speeds" : 3,
+                        "Blades" : "",
+                        "Material" : "Plastic, Metal"
+                    }
+                },
+                "Description" : "Rowenta Urban Cool Silent Tower Fan with 3 speeds, oscillation, remote control, timer, 3 Speeds, Black + Wood Effect"
+            },
+            {
+                "ID" : 59,
+                "Name" : "Simple Deluxe 32- inch Tower Fan",
+                "Price" : " $89.99",
+                "Rate" : "3.9",
+                "Img1" : "/Img/Tower_fan_6.1.png",
+                "Img2" : "/Img/Tower_fan_6.2.png",
+                "Img3" : "/Img/Tower_fan_6.3.png",
+                
+                "File" : "/File/59-Simple Deluxe Tower Fan.pdf",
+                "Spec" : {
+                    "Brand" : "Simple Deluxe",
+                    "Color" : "White",
+                    "Efd" : {
+                        "Id" : 6,
+                        "Name" : "Tower Fan" 
+                            },
+                    "Style" : "Modern",
+                    "Power" : "Corded Electric",
+                    "Dimension" : "12\"D x 12\"W x 36\"H",
+                    "Room" : "Kids Room, Living Room, Bedroom, Home Office",
+                    "Feature" : "Electric Stovetop Compatible",
+                    "Recommend" : "Cooling, Air Circulation",
+                    "Type" : {
+                        "Mounting" : "Window Mount",
+                        "Controller" : "Remote Control, Button Control",
+                        "Speeds" : 3,
+                        "Blades" : "",
+                        "Material" : "Plastic, Metal"
+                    }
+                },
+                "Description" : "Simple Deluxe 32- inch Tower Fan and Heater Combo, Electric Space Heater, Tower Heater with Remote, 1500W Indoor Space Heater with  Oscillation, Overheating Protection, White"
+            },
+            {
+                "ID" : 60,
+                "Name" : "Vornado 173",
+                "Price" : "$69.99",
+                "Rate" : "3.8",
+                "Img1" : "/Img/Tower_fan_8.1.png",
+                "Img2" : "/Img/Tower_fan_8.2.png",
+                "Img3" : "/Img/Tower_fan_8.4.png",
+                "File" : "/File/60-Vornado Tower Air Circulator.pdf",
+                "Spec" : {
+                    "Brand" : "Vornado",
+                    "Color" : "Black",
+                    "Efd" : {
+                        "Id" : 6,
+                        "Name" : "Tower Fan" 
+                            },
+                    "Style" : "173 - 37\"",
+                    "Power" : "Ac",
+                    "Dimension" : "10.47\"D x 10.47\"W x 36.53\"H",
+                    "Room" : "Bedroom, Living Room",
+                    "Feature" : "Timer",
+                    "Recommend" : "Bedroom",
+                    "Type" : {
+                        "Mounting" : "Free Standing",
+                        "Controller" : "Remote Control",
+                        "Speeds" : 3,
+                        "Blades" : "",
+                        "Material" : "Plastic, Metal"
+                    }
+                },
+                "Description" : "Vornado 173 Whole Room Tower Air Circulator, 37\", Black - FA1-0039-06"
+            }
+]

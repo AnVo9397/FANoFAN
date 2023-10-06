@@ -1,0 +1,26 @@
+[
+    {
+        "Id" : 1,
+        "Name" : "Ceiling Fan" 
+    },
+    {
+        "Id" : 2,
+        "Name" : "Exhaust Fan" 
+    },
+    {
+        "Id" : 3,
+        "Name" : "Table Fan" 
+    },
+    {
+        "Id" : 4,
+        "Name" : "Bladeless Fan" 
+    },
+    {
+        "Id" : 5,
+        "Name" : "Pedestal" 
+    },
+    {
+        "Id" : 6,
+        "Name" : "Tower Fan" 
+    }
+]
